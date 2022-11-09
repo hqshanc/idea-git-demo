@@ -12,6 +12,8 @@ public class IdeaGitDemoApplication {
         System.out.println("");
         System.out.println("");
         System.out.println("");
+        System.out.println("1");
+        System.out.println("1");
     }
 
 }
