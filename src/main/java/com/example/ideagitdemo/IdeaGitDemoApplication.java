@@ -8,6 +8,7 @@ public class IdeaGitDemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(IdeaGitDemoApplication.class, args);
+        System.out.println("");
     }
 
 }
